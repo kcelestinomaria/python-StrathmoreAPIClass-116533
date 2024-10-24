@@ -6,3 +6,4 @@ for a in adj:
     # second loop
     for v in vehicles:
         print(a, v)
+
